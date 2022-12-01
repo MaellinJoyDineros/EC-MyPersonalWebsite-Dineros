@@ -29,6 +29,22 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 
 ## My Professional Experiences:
 
+#### District Academic Affairs Chairperson
+
+|                     |                                     |                  |
+|-----------------------|---------------------------------|----------------|
+| Jan. 2015 - present | Christian Brotherhood International | Los Angeles, CA. |
+
+-   Help tutor (in-person and online) in common core Mathematics, Algebra, Geometry, Calculus I, II, and III, Linear Algebra, Differential Equations, Statistics, Chemistry, and Physics.
+
+-   Lead monthly meetings with Chapter Presidents in other parts of Southern California.
+
+-   Aid in providing a respectful online community between students through Discord and Telegram.
+
+-   Establish virtual and in-person study groups and tutoring sessions in different parts of Southern California.
+
+-   Regulate tutoring schedule.
+
 #### Financial Auditor
 
 |                     |                                      |             |
@@ -49,13 +65,11 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 |-----------------------|---------------------------------|-----------------|
 | June 2016 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
 
--   Inventory item and monetary donations, and maintenance supplies.
+-   Completed treasury reports by enumerating and finalizing donated funds to each budgetary account.
 
--   Perform financial audits.
+-   Made recommendations to ensure the security and complete accuracy of funding for proper execution and/or delivery of funds to the higher office.
 
--   Create analysis, monitor rates, and suggest price adjustments towards chapel beautification.
-
--   Provide forecast/trend reports to promote better financial decision-making using Excel.
+#### 
 
 ## Fun Facts About Me:
 
