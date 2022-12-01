@@ -3,7 +3,7 @@ title: "Maellin Dineros' Personal Website"
 author: "Maellin Dineros"
 date: 2020-12-01T21:13:14-05:00
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["R Markdown", "personalwebsite"]
 ---
 
 # Welcome to my Personal Website!
