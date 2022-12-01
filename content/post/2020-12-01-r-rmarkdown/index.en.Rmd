@@ -8,9 +8,9 @@ tags: ["R Markdown", "personalwebsite"]
 
 # Welcome to my Personal Website!
 
-My name is Maellin Dineros and I am a senior at CSU Channel Islands. I am majoring in Mathematics with an emphasis in Statistics and minoring in Computer Science. One day I hope to become a Data Scientist working towards improving wildlife and nature.
+![](images/IMG_1844-01.jpeg){width="568"}
 
-This is me!
+My name is Maellin Dineros and I am a senior at CSU Channel Islands. I am majoring in Mathematics with an emphasis in Statistics and minoring in Computer Science. One day I hope to become a Data Scientist working towards improving wildlife and nature.
 
 ## Fun Facts About Me:
 
