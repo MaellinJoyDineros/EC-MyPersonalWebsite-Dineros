@@ -27,6 +27,36 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 -   After enjoying the required Computer Science courses, I decided to minor in it.
 -   I will be graduating with a Mathematics major and a Computer Science minor in May 2023.
 
+## My Professional Experiences:
+
+#### Financial Auditor
+
+|                     |                                      |             |
+|---------------------|--------------------------------------|-------------|
+| Nov. 2021 - present | Iglesia Ni Cristo (Church of Christ) | Oxnard, CA. |
+
+-   Inventory item and monetary donations, and maintenance supplies.
+
+-   Perform financial audits.
+
+-   Create analysis, monitor rates, and suggest price adjustments towards chapel beautification.
+
+-   Provide forecast/trend reports to promote better financial decision-making using Excel.
+
+#### Financial Treasurer
+
+|                       |                                      |                  |
+|-----------------------|---------------------------------|-----------------|
+| June 2016 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
+
+-   Inventory item and monetary donations, and maintenance supplies.
+
+-   Perform financial audits.
+
+-   Create analysis, monitor rates, and suggest price adjustments towards chapel beautification.
+
+-   Provide forecast/trend reports to promote better financial decision-making using Excel.
+
 ## Fun Facts About Me:
 
 -   I love puzzles. I do not mind being called "boring" when I choose to play puzzle games to "de-stress."
