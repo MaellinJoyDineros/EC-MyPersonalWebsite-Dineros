@@ -69,7 +69,40 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 
 -   Made recommendations to ensure the security and complete accuracy of funding for proper execution and/or delivery of funds to the higher office.
 
-#### 
+#### Teacher - Regional Assistant Officer in Charge
+
+|                       |                                      |                  |
+|-----------------------|---------------------------------|-----------------|
+| Mar. 2018 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
+
+-   Led weekly meetings of co-teachers and officers to discuss concerns and ways to improve caring for the young members.
+
+-   Distributed weekly worship service teaching assignments to teachers within the region and outlined weekly presentations for children (ages ranging from 4 to 12).
+
+-   Oversaw activities to promote life productivity and provided counseling to children in need.
+
+-   Worked closely with parents to monitor each child's progress at school, home, and church.
+
+#### Certified Nursing Assistant
+
+|                       |                            |                      |
+|-----------------------|----------------------------|----------------------|
+| July 2020 - Jan. 2021 |  Villa Maria Post Acute    | Santa Maria, CA.     |
+| Aug. 2019 - Dec. 2019 | Mission View Health Center | San Luis Obispo, CA. |
+
+-   Provided excellent care and unbiased service to each resident (ranging between 8-25 individuals depending on the number of staff available per shift).
+
+-   Created shift reports about every resident for updates and health concerns.
+
+-   Provided cardiopulmonary resuscitation on residents under "full-code," as needed.
+
+## My Technical Skills:
+
+-   Proficient in Excel, Word, MS Office, PowerPoint
+-   Programming Languages: Java, Python, LaTeX, Overleaf, R, R Markdown, Quarto
+-   Operating Systems: Windows, MacOS
+-   Scientific Software: MATLAB, Desmos, ImageJ
+-   Languages: Advanced in English and Tagalog
 
 ## Fun Facts About Me:
 
