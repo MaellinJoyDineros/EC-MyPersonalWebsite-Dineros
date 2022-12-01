@@ -19,17 +19,17 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 ## My Academic History:
 
 -   I graduated High School in 2015 from Santa Maria High School in Santa Barbara County.
--   I enrolled at Allan Hancock College and first majored in Biology in hopes of going to Veterinary School.
+-   I enrolled at my local college, Allan Hancock College, and first majored in Biology in hopes of going to Veterinary School.
 -   I switched majors to Nursing in 2017 and received my Nursing Assistant Certification in 2019.
 -   I joined the waitlist to become a Licensed Nurse in 2019 and continued taking Mathematics courses (for fun).
 -   I received my Associate's Degree in Mathematics diploma through the mail in 2020.
 -   I transferred to CSU Channel Islands as a Mathematics major on January 2021.
 -   After enjoying the required Computer Science courses, I decided to minor in it.
--   I will be graduating as with a Mathematics major and a Computer Science minor in May 2023.
+-   I will be graduating with a Mathematics major and a Computer Science minor in May 2023.
 
 ## Fun Facts About Me:
 
--   I love puzzles. I do not mind being called "boring" when I would rather play Beat-Your-Own-Score puzzle games over multiplayer games.
+-   I love puzzles. I do not mind being called "boring" when I choose to play puzzle games to "de-stress."
 -   I can finish any mystery/romance book in a day. My current favorite romance book is "Love & Words" by Christina Lauren and mystery book is "The Killing Game" by Iris Johansen.
 -   I have two gray kittens and two Maltese Poodles! My cats are named Sky and Mittens (he looks like he's wearing socks!) and my dogs are named Mikmik and Potchi (after Filipino sweet snacks).
 -   My most favorite purchase of the year is a wet vacuum by BISSELL. It is both a solids vacuum and a mop and saves me time from doing two passes of my entire house!
