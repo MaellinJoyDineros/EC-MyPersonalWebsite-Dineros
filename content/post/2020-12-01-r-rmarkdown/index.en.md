@@ -3,7 +3,7 @@ title: "Maellin Dineros"
 author: "Maellin Dineros"
 date: 2020-12-01T21:13:14-05:00
 categories: ["R"]
-tags: ["R Markdown", "personalwebsite"]
+tags: ["R Markdown", "PersonalWebsite"]
 ---
 
 # Welcome to my Personal Website!
@@ -16,23 +16,12 @@ My name is Maellin Dineros and I am an undergraduate student at CSU Channel Isla
 
 The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physics, and the fundamentals of Physics is Mathematics. Mathematics itself is life, and Computer Science makes Mathematics more fun and efficient.
 
-## My Academic History:
-
--   I graduated High School in 2015 from Santa Maria High School in Santa Barbara County.
--   I enrolled at my local college, Allan Hancock College, and first majored in Biology in hopes of going to Veterinary School.
--   I switched majors to Nursing in 2017 and received my Nursing Assistant Certification in 2019.
--   I joined the waitlist to become a Licensed Nurse in 2019 and continued taking Mathematics courses (for fun).
--   I received my Associate's Degree in Mathematics diploma through the mail in 2020.
--   I transferred to CSU Channel Islands as a Mathematics major on January 2021.
--   After enjoying the required Computer Science courses, I decided to minor in it.
--   I will be graduating with a Mathematics major and a Computer Science minor in May 2023.
-
 ## My Professional Experiences:
 
 #### District Academic Affairs Chairperson
 
 |                     |                                     |                  |
-|-----------------------|---------------------------------|----------------|
+|-----------------------|-------------------------------|------------------|
 | Jan. 2015 - present | Christian Brotherhood International | Los Angeles, CA. |
 
 -   Help tutor (in-person and online) in common core Mathematics, Algebra, Geometry, Calculus I, II, and III, Linear Algebra, Differential Equations, Statistics, Chemistry, and Physics.
@@ -47,9 +36,9 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 
 #### Financial Auditor
 
-|                     |                                      |             |
-|---------------------|--------------------------------------|-------------|
-| Nov. 2021 - present | Iglesia Ni Cristo (Church of Christ) | Oxnard, CA. |
+|                      |                                      |             |
+|----------------------|--------------------------------------|-------------|
+| Nov. 2021 - present  | Iglesia Ni Cristo (Church of Christ) | Oxnard, CA. |
 
 -   Inventory item and monetary donations, and maintenance supplies.
 
@@ -62,7 +51,7 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 #### Financial Treasurer
 
 |                       |                                      |                  |
-|-----------------------|---------------------------------|-----------------|
+|----------------------|--------------------------------|-------------------|
 | June 2016 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
 
 -   Completed treasury reports by enumerating and finalizing donated funds to each budgetary account.
@@ -72,7 +61,7 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 #### Teacher - Regional Assistant Officer in Charge
 
 |                       |                                      |                  |
-|-----------------------|---------------------------------|-----------------|
+|----------------------|--------------------------------|-------------------|
 | Mar. 2018 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
 
 -   Led weekly meetings of co-teachers and officers to discuss concerns and ways to improve caring for the young members.
@@ -87,7 +76,7 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 
 |                       |                            |                      |
 |-----------------------|----------------------------|----------------------|
-| July 2020 - Jan. 2021 |  Villa Maria Post Acute    | Santa Maria, CA.     |
+| July 2020 - Jan. 2021 | Villa Maria Post Acute     | Santa Maria, CA.     |
 | Aug. 2019 - Dec. 2019 | Mission View Health Center | San Luis Obispo, CA. |
 
 -   Provided excellent care and unbiased service to each resident (ranging between 8-25 individuals depending on the number of staff available per shift).
@@ -106,15 +95,44 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 
 ## Presentations and Research Projects:
 
-|                                                           |                |                     |
-|---------------------------------------------|--------------|-----------------|
-| Differential Equations Project on Slope Fields            | September 2021 | CSU Channel Islands |
-| "Linear, Homogeneous, and First Order Equations" Project  | November 2021  | CSU Channel Islands |
-| "Exploring Numerical Methods and Chaos" Project           | December 2021  | CSU Channel Islands |
-| "Fractals" seminar presentation                           | December 2021  | CSU Channel Islands |
-| Presentation on Logician: Alan Turing                     | May 2022       | CSU Channel Islands |
-| Image De-convolution and Enhancement Presentation         | November 2022  | CSU Channel Islands |
-| Putnam Problem seminar Presentation                       | November 2022  | CSU Channel Islands |
+|                                                          |                |                     |
+|--------------------------------------|-----------------|-----------------|
+| Differential Equations Project on Slope Fields           | September 2021 | CSU Channel Islands |
+| "Linear, Homogeneous, and First Order Equations" Project | November 2021  | CSU Channel Islands |
+| "Exploring Numerical Methods and Chaos" Project          | December 2021  | CSU Channel Islands |
+| "Fractals" seminar presentation                          | December 2021  | CSU Channel Islands |
+| Presentation on Logician: Alan Turing                    | May 2022       | CSU Channel Islands |
+| Image De-convolution and Enhancement Presentation        | November 2022  | CSU Channel Islands |
+| Putnam Problem seminar Presentation                      | November 2022  | CSU Channel Islands |
+
+## After-school Achievements:
+
+-   1st Place -- 2015 Local level (Santa Maria) MATH Quiz Bee Competition (for High School Students) -- Christian Brotherhood International
+
+-   4th Place -- 2015 District level (Southern California) MATH Quiz Bee Competition (for High School Students) -- Christian Brotherhood International
+
+-   1st Place -- 2017 Local (Santa Maria) Trig competition (for Undergrad students) -- Christian Brotherhood International
+
+-   4th Place -- 2017 District level (Southwest California) Trig competition (for Undergrad students) -- Christian Brotherhood International
+
+-   1st Place -- 2019 Local level (Santa Maria) MATH Quiz Bee Competition (for Undergrad students) -- Christian Brotherhood International
+
+-   2nd Place -- 2019 District level (Los Angeles County California) MATH Quiz Bee Competition (for Undergrad students) -- Christian Brotherhood International
+
+-   1st Place -- 2022 Local level (Oxnard) MATH Quiz Bee Competition (for Undergrad students) -- Christian Brotherhood International
+
+-   3rd Place -- 2022 District level (Los Angeles County California) MATH Quiz Bee Competition (for Undergrad students) -- Christian Brotherhood International
+
+## My Academic History:
+
+-   I graduated High School in 2015 from Santa Maria High School in Santa Barbara County.
+-   I enrolled at my local college, Allan Hancock College, and first majored in Biology in hopes of going to Veterinary School.
+-   I switched majors to Nursing in 2017 and received my Nursing Assistant Certification in 2019.
+-   I joined the waitlist to become a Licensed Nurse in 2019 and continued taking Mathematics courses (for fun).
+-   I received my Associate's Degree in Mathematics diploma through the mail in 2020.
+-   I transferred to CSU Channel Islands as a Mathematics major on January 2021.
+-   After enjoying the required Computer Science courses, I decided to minor in it.
+-   I will be graduating with a Mathematics major and a Computer Science minor in May 2023.
 
 ## Fun Facts About Me:
 
