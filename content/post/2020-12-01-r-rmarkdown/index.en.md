@@ -16,4 +16,4 @@ My name is Maellin Dineros and I am a senior at CSU Channel Islands. I am majori
 
 -   I can finish any mystery/romance book in a day. My current favorite romance book is "Love & Words" by Christina Lauren and mystery book is "The Killing Game" by Iris Johansen.
 -   I have two gray kittens and two Maltese Poodles! My cats are named Sky and Mittens (he looks like he's wearing socks!) and my dogs are named Mikmik and Potchi (after Filipino sweet snacks).
--   
+-   My most favorite purchase of the year is a wet vacuum by BISSELL. It is both a solids vacuum and a mop and saves me time from doing two passes of my entire house!
