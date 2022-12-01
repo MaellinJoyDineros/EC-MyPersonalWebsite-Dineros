@@ -1,5 +1,5 @@
 ---
-title: "Maellin Dineros' Personal Website"
+title: "Maellin Dineros"
 author: "Maellin Dineros"
 date: 2020-12-01T21:13:14-05:00
 categories: ["R"]
@@ -98,7 +98,7 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 
 ## My Technical Skills:
 
--   Proficient in Excel, Word, MS Office, PowerPoint
+-   Proficient in: Excel, Word, MS Office, PowerPoint
 -   Programming Languages: Java, Python, LaTeX, Overleaf, R, R Markdown, Quarto
 -   Operating Systems: Windows, MacOS
 -   Scientific Software: MATLAB, Desmos, ImageJ
