@@ -104,6 +104,18 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 -   Scientific Software: MATLAB, Desmos, ImageJ
 -   Languages: Advanced in English and Tagalog
 
+## Presentations and Research Projects:
+
+|                                                           |                |                     |
+|---------------------------------------------|--------------|-----------------|
+| Differential Equations Project on Slope Fields            | September 2021 | CSU Channel Islands |
+| "Linear, Homogeneous, and First Order Equations" Project  | November 2021  | CSU Channel Islands |
+| "Exploring Numerical Methods and Chaos" Project           | December 2021  | CSU Channel Islands |
+| "Fractals" seminar presentation                           | December 2021  | CSU Channel Islands |
+| Presentation on Logician: Alan Turing                     | May 2022       | CSU Channel Islands |
+| Image De-convolution and Enhancement Presentation         | November 2022  | CSU Channel Islands |
+| Putnam Problem seminar Presentation                       | November 2022  | CSU Channel Islands |
+
 ## Fun Facts About Me:
 
 -   I love puzzles. I do not mind being called "boring" when I choose to play puzzle games to "de-stress."
@@ -115,3 +127,5 @@ The fundamentals of Biology is Chemistry, the fundamentals of Chemistry is Physi
 ### How to Contact Me:
 
 email: maellin02\@gmail.com
+
+Based in: Oxnard, CA. 93033
